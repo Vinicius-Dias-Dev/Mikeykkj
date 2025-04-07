@@ -61,7 +61,7 @@ Olá! Me chamo Vinicius Dias, tenho 21 anos e sou de Araçoiaba. Estou estudando
 
 ### 📊 Estatísticas
 
-<div align="center">
+
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Mikeykkj&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
     height="200"
@@ -72,4 +72,4 @@ Olá! Me chamo Vinicius Dias, tenho 21 anos e sou de Araçoiaba. Estou estudando
     height="200"
     alt="Top Linguagens"
   />
-</div>
+
