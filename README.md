@@ -2,8 +2,7 @@
 
 **`Desenvolvedor em formação | C# & JavaScript | Foco em Back-End`**
 
-Olá! Me chamo Vinicius Dias, tenho 21 anos e sou de Araçoiaba. Estou estudando programação com foco em desenvolvimento back-end, principalmente utilizando C# e Java. Recentemente, desenvolvi minha primeira API com a ajuda de um amigo — um passo importante na minha jornada como desenvolvedor. Estou sempre buscando aprender, criar projetos e evoluir na carreira.
-
+Olá! Me chamo Vinicius Dias, tenho 21 anos e sou de Araçoiaba. Estou iniciando meus estudos em programação com foco em desenvolvimento back-end, especialmente utilizando C# e Java. Recentemente, desenvolvi minha primeira API com a ajuda de um amigo — um passo importante nessa fase inicial da minha jornada como desenvolvedor. Estou em constante aprendizado, buscando evoluir por meio de projetos simples e experiências práticas.
 
  <a href="https://github.com/Mikeykkj?tab=repositories">
         <img 
