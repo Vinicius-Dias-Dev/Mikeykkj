@@ -4,7 +4,8 @@
 
 Olá! Me chamo Vinicius Dias, tenho 21 anos e sou de Araçoiaba. Estou iniciando meus estudos em programação com foco no desenvolvimento back-end,
 Recentemente, desenvolvi minha primeira API, um passo importante na minha jornada como desenvolvedor. Estou sempre evoluindo, aprendendo por meio de projetos práticos para aprimorar minhas habilidades.
-
+Além disso, também possuo conhecimento básico em front-end!
+<br>
  Linguagens e Tecnologias que estou aprendendo
  <br>
 JavaScript (ES6) | 
