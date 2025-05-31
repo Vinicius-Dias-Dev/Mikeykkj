@@ -7,7 +7,7 @@ Recentemente, desenvolvi minha primeira API, um passo importante na minha jornad
 Estou sempre evoluindo, aprendendo por meio de projetos práticos para aprimorar minhas habilidades.<br>
 Além disso, também possuo conhecimento básico em front-end!<br>
 <br>
- Linguagens e Tecnologias que estou aprendendo
+ Linguagens e Tecnologias que estou aprendendo<br>
  <br>
 JavaScript (ES6) | 
 React  |
