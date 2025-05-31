@@ -14,8 +14,8 @@ React  |
 DOM Manipulation  |
 Node.js  |
 Express.js  |
-Sequelize  |
-<br>
+Sequelize  |<br>
+
  <a href="https://github.com/Vinicius-dias-dev?tab=repositories">
         <img 
             alt="Total de estrelas" 
