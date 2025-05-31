@@ -6,12 +6,13 @@ Olá! Me chamo Vinicius Dias, tenho 21 anos e sou de Araçoiaba. Estou iniciando
 Recentemente, desenvolvi minha primeira API com a ajuda de um amigo, um passo importante na minha jornada como desenvolvedor. Estou sempre evoluindo, aprendendo por meio de projetos práticos para aprimorar minhas habilidades.
 
  Linguagens e Tecnologias que estou aprendendo
-JavaScript (ES6) 
-React 
-DOM Manipulation 
-Node.js 
-Express.js 
-Sequelize 
+ <br>
+JavaScript (ES6) | 
+React  |
+DOM Manipulation  |
+Node.js  |
+Express.js  |
+Sequelize  |
 
  <a href="https://github.com/Mikeykkj?tab=repositories">
         <img 
